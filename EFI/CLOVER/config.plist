@@ -261,7 +261,7 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>2560x1440</string>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>clover-next-black</string>
 	</dict>
@@ -339,24 +339,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>AirPortBrcm4360 - fcvo</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				gflSqgAAdSk=
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AirPort.Brcm4360</string>
-				<key>Replace</key>
-				<data>
-				gflSqgAAZpA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
 				<key>Disabled</key>
 				<false/>
@@ -403,46 +385,49 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>06/25/2017</string>
+		<string>07/26/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM183.88Z.0147.B01.1706251744</string>
+		<string>IMP11.88Z.F000.B00.1907261958</string>
+		<key>Board-ID</key>
+		<string>Mac-7BA5B2D9E42DDD94</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02736104GUJ0PGUE</string>
+		<string>C02709200GUJG36CB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
+		<key>BoardVersion</key>
+		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>iMacPro-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
+		<key>EfiVersion</key>
+		<string>1037.0.39.151.1</string>
 		<key>Family</key>
-		<string>iMac</string>
+		<string>iMac Pro</string>
+		<key>FirmwareFeatures</key>
+		<string>0xFD8FF53F</string>
+		<key>FirmwareFeaturesMask</key>
+		<string>0xFF9FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>Memory</key>
-		<dict>
-			<key>Channels</key>
-			<integer>2</integer>
-			<key>SlotCount</key>
-			<integer>2</integer>
-		</dict>
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
 		<string>0x00</string>
 		<key>ProductName</key>
-		<string>iMac18,3</string>
+		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02VCPZMJ1GJ</string>
-		<key>Trust</key>
-		<true/>
+		<string>C02VJ6Z2HX87</string>
+		<key>SmUUID</key>
+		<string>385ABAB7-F629-4986-89B1-696D8302DD16</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
