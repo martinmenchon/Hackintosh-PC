@@ -776,18 +776,24 @@
 		<false/>
 		<key>EmbeddedThemeType</key>
 		<string>Daytime</string>
+		<key>Hide</key>
+		<array>
+			<string>preboot</string>
+			<string>Legacy HD1</string>
+			<string>Legacy HD3</string>
+		</array>
 		<key>Language</key>
-		<string>es:0</string>
+		<string>en:0</string>
 		<key>PlayAsync</key>
 		<false/>
+		<key>Scan</key>
+		<true/>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
-		<string>Clovy</string>
-		<key>Timezone</key>
-		<integer>3</integer>
+		<string>clover-minimal-inverted</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -1291,7 +1297,7 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02VPYZ0HX87</string>
+		<string>C02VJ6Z2HX87</string>
 		<key>SmUUID</key>
 		<string>8D991713-A9F6-44B7-BE2A-2E88BCF43BBF</string>
 		<key>Version</key>
