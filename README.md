@@ -22,11 +22,8 @@
 - AirDrop
 - HDMI audio
 - Wifi and Bluetooth: Using this card and adaptor (Sodial Bcm94360Cs2 - Adaptator BCM94360CS2 BCM943224PCIEBT2 A M2 (M.2 NGFF) A E Key)
-
-
-## Not Working:
-
-- IMessage and FaceTime (I will try to fix it in the next days)
+- Imessage
+- Facetime
 
 ## Clover:
 - Version 5119    
